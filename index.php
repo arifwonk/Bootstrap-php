@@ -61,7 +61,7 @@
     <hr>
     <div class="row">
         <div class="col-md">
-            <a href="#" class="btn btn-primary"><i class="bi bi-file-earmark-plus"></i>&nbsp;Insert data</a>
+            <a href="tambah.php" class="btn btn-primary"><i class="bi bi-file-earmark-plus"></i>&nbsp;Insert data</a>
             <a href="#" class="btn btn-success ms-1" target="_blank"><i class="bi bi-file-earmark-spreadsheet-fill"></i>&nbsp;Import to MySQL</a>
         </div>
     </div>
@@ -134,7 +134,7 @@
             <a href="https://www.instagram.com/arif_wonk/" target="_blank"><i class="bi bi-instagram fs-2"></i></a>            
         </div>
     </div>
-    <footer class="text-center" style="padding: 5px;">
+    <footer class="text-center" style="padding: 20px;">
         <p>Created with <i class="bi bi-suit-heart-fill" style="color: red;"></i> By <u classs="fw-bold" >Mohamad arif
 
         </u> </p>
